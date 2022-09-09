@@ -1,0 +1,8 @@
+python==3.7.0
+
+telegram==0.0.1
+pydub==0.25.1
+numpy==1.21.5
+pandas==1.1.5
+pyaudio==0.2.12
+tqdm==4.64.0
